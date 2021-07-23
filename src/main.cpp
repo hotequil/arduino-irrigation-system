@@ -5,13 +5,13 @@
 #define relay 4
 
 void setup(){
-    Serial.begin(9600);
-	
+	Serial.begin(9600);
+
 	pinMode(relay, OUTPUT);
-	pinMode(fiveVolts, OUTPUT);
-	digitalWrite(fiveVolts, HIGH);
+    pinMode(fiveVolts, OUTPUT);
+    digitalWrite(fiveVolts, HIGH);
 }
 
 void loop(){
-	map(analogRead(analog), 1023, 0, 0, 100) >= 50 ? digitalWrite(relay, HIGH) : digitalWrite(relay, LOW);
+   map(analogRead(analog), 1023, 0, 0, 100) >= 50 ? digitalWrite(relay, HIGH) : digitalWrite(relay, LOW);
 }
