@@ -1,9 +1,26 @@
 # Arduino Irrigation System
 Irrigation system using Arduino for my vegetable garden.
 
-## Roadmap
-- [ ] Improve documentation by adding images and text;
-- [ ] Make Arduino box and bigger wires for connections;
-- [X] Finalize main code.
+## Description
+I was inspired in many videos about 
+irrigation system with arduino, together 
+with my grandfather, we created the base 
+for the electronic components. This project 
+will be used to throw water in our vegetable garden.
+
+## My project's images
+Some images about my project.
+
+### All components
+![All components](./assets/all-components.jpeg)
+
+### Battery, Arduino Uno, relay and humidity sensor
+![Battery, Arduino Uno, relay and humidity sensor](./assets/battery-arduino-uno-relay-and-humidity-sensor.jpeg)
+
+### Humidity sensor
+![Humidity sensor](./assets/humidity-sensor.jpeg)
+
+### Solenoid valve
+![Solenoid valve](./assets/solenoid-valve.jpeg)
 
 **by: *hotequil*.**
