@@ -14,6 +14,15 @@ Some images about my project.
 ### All components
 ![All components](./assets/all-components.jpeg)
 
+### Humidity sensor in ground
+![Humidity sensor in ground](./assets/humidity-sensor-in-ground.jpeg)
+
+### Water gallon with solenoid valve
+![Water gallon with solenoid valve](./assets/water-gallon-with-solenoid-valve.jpeg)
+
+### Pipe
+![Pipe](./assets/pipe.jpeg)
+
 ### Battery, Arduino Uno, relay and humidity sensor
 ![Battery, Arduino Uno, relay and humidity sensor](./assets/battery-arduino-uno-relay-and-humidity-sensor.jpeg)
 
