@@ -13,9 +13,9 @@ void setup(){
 }
 
 void loop(){
-	int result = map(analogRead(analog), 1023, 0, 0, 100);
+	int result = analogRead(analog);
 
-	Serial.println('debug humidity result: ' + result);
+	Serial.println(result);
 
-	result >= 6 ? digitalWrite(relay, HIGH) : digitalWrite(relay, LOW);
+	result < 900 ? digitalWrite(relay, HIGH) : digitalWrite(relay, LOW);
 }
