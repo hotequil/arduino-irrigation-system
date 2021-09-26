@@ -8,11 +8,20 @@ with my grandfather, we created the base
 for the electronic components. This project 
 will be used to throw water in our vegetable garden.
 
-## My project's images
-Some images about my project.
+## My project's medias
+Some medias about my project.
+
+### Running
+[![Running](./assets/running.gif)](./assets/running.mp4)
+
+### All structure
+![All structure](./assets/all-structure.jpeg)
 
 ### All components
 ![All components](./assets/all-components.jpeg)
+
+### Final box with components
+![Final box with components](./assets/final-box-with-components.jpeg)
 
 ### Humidity sensor in ground
 ![Humidity sensor in ground](./assets/humidity-sensor-in-ground.jpeg)
@@ -22,6 +31,9 @@ Some images about my project.
 
 ### Pipe
 ![Pipe](./assets/pipe.jpeg)
+
+### Pipe to get water rain
+![Pipe to get water rain](./assets/pipe-to-get-water-rain.jpeg)
 
 ### Battery, Arduino Uno, relay and humidity sensor
 ![Battery, Arduino Uno, relay and humidity sensor](./assets/battery-arduino-uno-relay-and-humidity-sensor.jpeg)
