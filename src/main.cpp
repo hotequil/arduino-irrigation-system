@@ -13,5 +13,9 @@ void setup(){
 }
 
 void loop(){
-	map(analogRead(analog), 1023, 0, 0, 100) >= 50 ? digitalWrite(relay, HIGH) : digitalWrite(relay, LOW);
+	int result = map(analogRead(analog), 1023, 0, 0, 100);
+
+	Serial.println('debug humidity result: ' + result);
+
+	result >= 6 ? digitalWrite(relay, HIGH) : digitalWrite(relay, LOW);
 }
