@@ -38,6 +38,9 @@ Some medias about my project.
 ### Pipe to get water rain
 ![Pipe to get water rain](./assets/pipe-to-get-water-rain.jpeg)
 
+### Water outlet
+![Water outlet](./assets/water-outlet.jpg)
+
 ### Battery, Arduino Uno, relay and humidity sensor
 ![Battery, Arduino Uno, relay and humidity sensor](./assets/battery-arduino-uno-relay-and-humidity-sensor.jpeg)
 

@@ -8,6 +8,10 @@
 bool canWash = true;
 bool isFirstTime = true;
 
+void wash(){
+	digitalWrite(relay, canWash);
+}
+
 void setup(){
   	Serial.begin(9600);
   
@@ -35,8 +39,4 @@ void loop(){
 	    wash();
     	delay(1000);
 	}
-}
-
-void wash(){
-	digitalWrite(relay, canWash);
 }
