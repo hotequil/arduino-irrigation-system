@@ -23,6 +23,9 @@ Some medias about my project.
 ### Final box with components
 ![Final box with components](./assets/final-box-with-components.jpeg)
 
+### Button
+![Button](./assets/button.jpg)
+
 ### Humidity sensor in ground
 ![Humidity sensor in ground](./assets/humidity-sensor-in-ground.jpeg)
 
